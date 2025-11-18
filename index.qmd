@@ -1,5 +1,5 @@
 ---
-title: "Responsible Research Metrics Self-Study Module"
+title: "Responsible Research Metrics Self-Study Module WLV"
 ---
 
 #### Welcome to this self-study module
