@@ -19,7 +19,7 @@ website:
   google-analytics: 
     tracking-id: "G-KBY6B9VX9V"
   navbar:
-    logo: "images/Uni_Wolverhampton.jpg"
+    logo: "Uni_Wolverhampton.jpg"
     left:
       - href: index.qmd
         text: Home
